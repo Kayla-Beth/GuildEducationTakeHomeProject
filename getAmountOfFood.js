@@ -15,6 +15,5 @@ function getAmountOfFood (smallDogs, mediumDogs, largeDogs, leftoverFood){
     return minimumAmountNeeded * 1.2;
   }
 
-console.log({ StandardCase: getAmountOfFood(5, 3, 7, 17.5) })
 
   module.exports = getAmountOfFood;

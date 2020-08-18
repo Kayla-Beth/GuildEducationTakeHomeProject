@@ -1,0 +1,25 @@
+{
+  "name": "guildeducationtakehomeproject",
+  "version": "1.0.0",
+  "description": "TestProject",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kayla-Beth/GuildEducationTakeHomeProject.git"
+  },
+  "keywords": [
+    "takehomeproject"
+  ],
+  "author": "Kayla Broughton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kayla-Beth/GuildEducationTakeHomeProject/issues"
+  },
+  "homepage": "https://github.com/Kayla-Beth/GuildEducationTakeHomeProject#readme",
+  "dependencies": {
+    "jest": "^26.4.0"
+  }
+}
